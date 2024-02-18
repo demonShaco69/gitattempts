@@ -4,4 +4,5 @@ import "fmt"
 
 func main() {
 	fmt.Println("second")
+	fmt.Println("one")
 }
